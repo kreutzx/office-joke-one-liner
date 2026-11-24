@@ -1,7 +1,7 @@
 import os
 
 JOKE = (
-    "Dimas emptied 214 desks in four minutes flat \u2014 the best-run meeting "
+    "Dimas emptied 214 desks in four minutes flat — the best-run meeting "
     "of the quarter. There was no fire drill; he'd pulled the alarm himself "
     "to end the budget review."
 )
